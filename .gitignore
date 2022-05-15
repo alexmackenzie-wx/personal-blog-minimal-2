@@ -60,8 +60,6 @@ typings/
 .env.*
 !.env.example
 
-.cache
-**/.cache
 public
 
 .idea
